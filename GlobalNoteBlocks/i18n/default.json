@@ -1,4 +1,5 @@
 ﻿{
-  "template.start": "Started {{mod}} from folder: {{folder}}",
-  "template.key": "Debug Key pressed"
+    "gn.popup.msg": "Global notes: ",
+    "gn.popup.on": "ON", 
+    "gn.popup.off": "OFF"
 }

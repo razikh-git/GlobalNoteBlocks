@@ -2,13 +2,13 @@
 
 namespace GlobalNoteBlocks
 {
-	class Config
+	internal class Config
 	{
-		public SButton debugKey { get; set; }
+		public SButton ToggleKey { get; set; }
 
 		public Config()
 		{
-			debugKey = SButton.J;
+			ToggleKey = SButton.OemQuotes;
 		}
 	}
 }
